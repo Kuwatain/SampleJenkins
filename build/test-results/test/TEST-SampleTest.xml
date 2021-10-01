@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SampleTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-10-01T17:36:11" hostname="DESKTOP-6L6R2VJ" time="0.017">
+  <properties/>
+  <testcase name="test1()" classname="SampleTest" time="0.013"/>
+  <testcase name="test2()" classname="SampleTest" time="0.001"/>
+  <testcase name="test3()" classname="SampleTest" time="0.001"/>
+  <testcase name="test4()" classname="SampleTest" time="0.001"/>
+  <system-out><![CDATA[Init
+Steps
+Assertions
+Init
+Steps
+Assertions
+Init
+Steps
+Assertions
+Init
+Steps
+Assertions
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
